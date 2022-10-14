@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @kamrulislamtushar
-- 👀 I love working with Spring Boot, Angular JS sometimes with MSSQL or ORACLE.
-- 🌱 I do leetcode when I am bored.
-- 💞️ I’m looking to collaborate on Open source project developed using Spring boot.
+Experienced Software Developer with a demonstrated history of working in the web-based software industry. Skilled in SPRING Boot, Angular, Laravel, jQuery,
+RDBMS, GIT. Strong software engineering knowledge with a Bachelor’s Degree focused in Computer Science & Engineering from United International University.
+
+
+Tech stacks that I have interest in and work with. 
+
+✨ Spring Boot 
+✨ Angular 
+✨ React 
+✨ MySQL 
+✨ MSSQL 
+✨ Oracle Database 
+✨ Microservice 
+✨ Git/Version control 
+
+
+
 - 📫 How to reach me: Via my email which is ki.tushar21@gmail.com
 
 <!---
