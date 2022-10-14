@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamrulislamtushar
-- 👀 I’m interested in Spring Boot, Angular JS.
-- 🌱 I’m currently learning Internal Mechanism of Spring Boot.
+- 👀 I love working with Spring Boot, Angular JS sometimes with MSSQL or ORACLE.
+- 🌱 I do leetcode when I am bored.
 - 💞️ I’m looking to collaborate on Open source project developed using Spring boot.
 - 📫 How to reach me: Via my email which is ki.tushar21@gmail.com
 
