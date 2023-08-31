@@ -1,8 +1,8 @@
-Experienced Software Developer with a demonstrated history of working in the web-based software industry. Skilled in SPRING Boot, Angular, Laravel, jQuery,
+Experienced Software Developer with a demonstrated history of working in the web-based software industry for about 5 years. Skilled in SPRING Boot, Angular, Laravel, jQuery,
 RDBMS, GIT. Strong software engineering knowledge with a Bachelor’s Degree focused in Computer Science & Engineering from United International University.
 
 
-Tech stacks that I have interest in and work with. 
+Tech stacks that I have interests in and work with. 
 
 ✨ Spring Boot 
 ✨ Angular 
