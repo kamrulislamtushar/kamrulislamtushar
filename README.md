@@ -1,8 +1,7 @@
-Experienced Software Developer with a demonstrated history of working in the web-based software industry for about 5 years. Skilled in SPRING Boot, Angular, Laravel, jQuery,
-RDBMS, GIT. Strong software engineering knowledge with a Bachelor’s Degree focused in Computer Science & Engineering from United International University.
+Experienced Senior Software Engineer having 6 years of experience, specializing in Java Spring Boot and proficient in various other technology stacks including distributed microservice systems. Trusted in the field of Banking Domain, Microfinance, Distribution Systems & CRM software development. Proactively stays abreast of cutting-edge advancements in development and technology, consistently delivering solutions positioned at the forefront of the industry. Possesses a strong foundation in software engineering with a Bachelor's Degree focused on Computer Science & Engineering from United International University.
 
 
-Tech stacks that I have interests in and work with. 
+Tech stacks that I have interest in and work with. 
 
 ✨ Spring Boot 
 ✨ Angular 
