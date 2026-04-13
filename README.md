@@ -18,8 +18,10 @@ Tech stacks that I have interest in and work with.
 
 
 - 📫 How to reach me: Via my email, which is ki.tushar21@gmail.com
-- Or VIA my [![LinkedIn]((https://github.com/kamrulislamtushar/kamrulislamtushar/blob/main/5ae385102039581.5f2d22187268f.png))](http://linkedin.com/in/kamrulislamtushar)
+- Or VIA my [![LinkedIn](https://github.com/kamrulislamtushar/kamrulislamtushar/blob/main/5ae385102039581.5f2d22187268f.png)](http://linkedin.com/in/kamrulislamtushar)
 
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 <!---
 kamrulislamtushar/kamrulislamtushar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
